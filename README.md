@@ -1,5 +1,4 @@
-[README.md](https://github.com/user-attachments/files/33934273/README.md)
-# Predicción de abandono de clientes (Customer Churn) | Machine Learning
+# Predicción de abandono de clientes (Customer Churn) | TP FINAL INTEGRADOR Grupo 22
 
 ## Descripción del proyecto
 
